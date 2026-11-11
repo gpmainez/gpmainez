@@ -2,7 +2,7 @@
 
 I'm a 3rd-year Applied Computer Science student at Wroclaw University of Science and Technology (PWr). I am passionate about building high-performance backend systems, mobile applications, and diving deep into data-driven solutions and Machine Learning. 
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -22,13 +22,13 @@ I'm a 3rd-year Applied Computer Science student at Wroclaw University of Science
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * **[Chess – Bitboard Engine & REST API](https://github.com/gpmainez/ChessEngine):** A fast chess engine (Chess960) utilizing 64-bit bitboards and Minimax (Alpha-Beta pruning), served via a Dockerized FastAPI REST application.
 * **[Dart Match & Simulation Engine](https://github.com/gpmainez/dart_app):** An asynchronous Flutter/Dart application with an SQLite database and a Box-Muller Gaussian AI simulation bot. Uses Isolates for heavy branch-and-bound checkout path calculations.
 * **[TimeGAN – Financial Time-Series Synthesizer](https://github.com/gpmainez/timeGan):** A generative neural network built with TensorFlow to synthesize multidimensional financial time series (BTC/USD), validated with t-SNE and PCA metrics.
 
-### 📫 Let's Connect
+### Let's Connect
 
 - **Email:** bartisp82@gmail.com
 
