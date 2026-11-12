@@ -32,7 +32,5 @@ I'm a 3rd-year Applied Computer Science student at Wroclaw University of Science
 
 - **Email:** bartisp82@gmail.com
 
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gpmainez&show_icons=true&theme=radical" alt="Bartek's GitHub Stats" />
-</div>
+
+
